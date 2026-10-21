@@ -8,6 +8,9 @@ SPPU BE AIDS Computational Lab I practicals.
 - **Assignment 1** — Sales data analysis (Pandas, plotting) — `sales_analysis.ipynb`
 - **Assignment 2** — Web scraping / weather data and interactive map (`weather_map.html`)
 - **Assignment 3** — Telecom customer churn analysis
+- **Assignment 4** — Real estate price data cleaning (`DMV4.pdf`)
+- **Assignment 5** — City air quality AQI trend analysis (`DMV5.pdf`)
+- **Assignment 6** — Retail sales analysis by product category (`DMV6.pdf`)
 
 ### Machine Learning
 - **Assignment 1** — PCA implementation (`Wine.csv`)
